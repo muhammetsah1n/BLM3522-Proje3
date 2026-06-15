@@ -7,7 +7,7 @@ Sistem üzerinden sanal sıcaklık sensörlerinden veri toplanmakta, AWS servisl
 ---
 
 # Tanıtım Videosu
-- [İzlemek İçin Tıklayınız.](https://youtu.be/795b_Hu9JM0)
+- [İzlemek İçin Tıklayınız.](youtube.com/watch?v=WAEJAXe61Io&feature=youtu.be)
 
 ---
 # 📌 Proje Özeti
